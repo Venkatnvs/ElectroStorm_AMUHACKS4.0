@@ -5,6 +5,14 @@
 - **Frontend**: [https://electro-storm-amuhacks-4-0.vercel.app/](https://electro-storm-amuhacks-4-0.vercel.app/)
 - **Backend**: [https://electrostorm-amuhacks4-0.onrender.com/](https://electrostorm-amuhacks4-0.onrender.com/)
 
+Manager:
+Email : venkatnvs2005@gmail.com
+Password: qwertyuiop
+
+Employee
+Email : aksiedc@gmail.com
+Password: Venkat@2005
+
 Click the image to watch the video!
 
 ## 🛠️ Tech Stack
