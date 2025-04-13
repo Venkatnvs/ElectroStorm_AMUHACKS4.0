@@ -20,23 +20,20 @@ PulsePlan is an all-in-one solution designed to streamline corporate tournament 
 
 ### Project Demonstration
 
-[![PulsePlan Demo Video](https://img.youtube.com/vi/wBML23nkEbM/0.jpg)](https://youtu.be/wBML23nkEbM)
-
-![Screenshot](https://github.com/user-attachments/assets/1a375346-f491-4320-9eb0-538f73975e90)
-
-![Screenshot](https://github.com/user-attachments/assets/f0e29ff8-0b9c-411f-ab2d-5baebbf64263)
-
-![Screenshot](https://github.com/user-attachments/assets/51e81ca4-59d5-4042-8ef4-88a5ac92d84c)
-
-![Screenshot](https://github.com/user-attachments/assets/1fd1386a-02b9-44ec-9ecd-894a45c7c7b6)
-
-![Screenshot](https://github.com/user-attachments/assets/8504f288-c72f-4426-a55e-334d72e814d4)
-
-![Screenshot](https://github.com/user-attachments/assets/a41536dc-7bab-495f-be09-4899b42d1f23)
-
-![Screenshot](https://github.com/user-attachments/assets/7018a08f-a29d-442b-a9c9-451165850472)
-
-![Screenshot](https://github.com/user-attachments/assets/0b92986b-eea2-4548-a919-64061f24123c)
+<div align="center">
+  <a href="https://youtu.be/wBML23nkEbM">
+    <img src="https://img.youtube.com/vi/wBML23nkEbM/0.jpg" alt="PulsePlan Demo Video" width="600">
+  </a>
+</div>
+<br>
+<img src="https://github.com/user-attachments/assets/f0e29ff8-0b9c-411f-ab2d-5baebbf64263" width="500">
+<img src="https://github.com/user-attachments/assets/51e81ca4-59d5-4042-8ef4-88a5ac92d84c" width="500">
+<img src="https://github.com/user-attachments/assets/1fd1386a-02b9-44ec-9ecd-894a45c7c7b6" width="500">
+<img src="https://github.com/user-attachments/assets/8504f288-c72f-4426-a55e-334d72e814d4" width="500">
+<img src="https://github.com/user-attachments/assets/a41536dc-7bab-495f-be09-4899b42d1f23" width="500">
+<img src="https://github.com/user-attachments/assets/7018a08f-a29d-442b-a9c9-451165850472" width="500">
+<img src="https://github.com/user-attachments/assets/0b92986b-eea2-4548-a919-64061f24123c" width="500">
+<img src="https://github.com/user-attachments/assets/1a375346-f491-4320-9eb0-538f73975e90" width="500">
 
 
 ## 🔍 Problem Statement
