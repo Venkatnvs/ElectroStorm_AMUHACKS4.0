@@ -1,9 +1,9 @@
-# <img src="https://bit-n-build-sigma.vercel.app/favicon.png" alt="Krishi Pragya Logo" width="45" height="45"/> PulsePlan
+# <img src="https://electro-storm-amuhacks-4-0.vercel.app/favicon.png" alt="PulsePlan Logo" width="45" height="45"/> PulsePlan
 
 ## 🚀 Live Demos
 
-- **Frontend**: [https://bit-n-build-sigma.vercel.app/](https://bit-n-build-sigma.vercel.app/)
-- **Backend**: [https://electrostorm-repo-62-bnb-maha.onrender.com/](https://electrostorm-repo-62-bnb-maha.onrender.com/)
+- **Frontend**: [https://electro-storm-amuhacks-4-0.vercel.app/](https://electro-storm-amuhacks-4-0.vercel.app/)
+- **Backend**: [https://electrostorm-amuhacks4-0.onrender.com/](https://electrostorm-amuhacks4-0.onrender.com/)
 
 Click the image to watch the video!
 
