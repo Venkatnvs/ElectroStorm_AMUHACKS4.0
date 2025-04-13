@@ -1,6 +1,7 @@
 import {
   AlertTriangle,
   ArrowRight,
+  Award,
   BookUser,
   Cable,
   ChartColumn,
@@ -12,12 +13,14 @@ import {
   CreditCard,
   File,
   FileText,
+  Heart,
   HelpCircle,
   Image,
   Laptop,
   LayoutDashboardIcon,
   Loader2,
   LogIn,
+  Medal,
   MessageCircle,
   Moon,
   MoreVertical,
@@ -66,6 +69,9 @@ export const Icons = {
   moon: Moon,
   hire: Cable,
   laptop: Laptop,
+  heart: Heart,
+  award: Award,
+  badge: Medal,
   gitHub: ({ ...props }) => (
     <svg
       aria-hidden='true'

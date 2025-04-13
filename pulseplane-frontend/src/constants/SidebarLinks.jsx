@@ -30,6 +30,24 @@ export const navItems = [
     label: 'Feedback',
   },
   {
+    title: 'Wellness',
+    href: '/dashboard/wellness',
+    icon: 'heart',
+    label: 'Wellness',
+  },
+  {
+    title: 'Recognition',
+    href: '/dashboard/recognition',
+    icon: 'award',
+    label: 'Recognition',
+  },
+  {
+    title: 'Badge Management',
+    href: '/dashboard/badges',
+    icon: 'badge',
+    label: 'Badge Management',
+  },
+  {
     title: 'Hiring',
     href: '/dashboard/new-hire',
     icon: 'hire',

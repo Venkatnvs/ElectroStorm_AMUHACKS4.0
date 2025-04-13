@@ -8,6 +8,9 @@ import MainNewHiring from "./pages/NewHiring/MainNewHiring";
 import MainProfilePage from "./pages/Profile/MainProfilePage";
 import MainShiftScheduling from "./pages/ShiftScheduling/MainShiftScheduling";
 import ShiftDetails from "./pages/ShiftScheduling/ShiftDetails";
+import WellnessPage from './pages/Wellness';
+import BadgeManagement from './pages/Recognition/BadgeManagement';
+import RecognitionCenter from './pages/Recognition/RecognitionCenter';
 
 
 const routes = [
@@ -60,6 +63,21 @@ const routes = [
         name: 'profile',
         path: '/dashboard/profile',
         element: MainProfilePage,
+    },
+    {
+        name: 'wellness',
+        path: '/dashboard/wellness',
+        element: WellnessPage,
+    },
+    {
+        name: 'recognition-center',
+        path: '/dashboard/recognition',
+        element: RecognitionCenter,
+    },
+    {
+        name: 'badge-management',
+        path: '/dashboard/badges',
+        element: BadgeManagement,
     }
 ];
 

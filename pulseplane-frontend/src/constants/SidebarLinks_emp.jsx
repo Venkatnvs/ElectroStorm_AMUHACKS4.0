@@ -12,6 +12,18 @@ export const navItems2 = [
     label: 'calendar',
   },
   {
+    title: 'Wellness',
+    href: '/dashboard/wellness',
+    icon: 'heart',
+    label: 'Wellness',
+  },
+  {
+    title: 'Recognition',
+    href: '/dashboard/recognition',
+    icon: 'award',
+    label: 'Recognition',
+  },
+  {
     title: 'Profile',
     href: '/dashboard/profile',
     icon: 'profile',
