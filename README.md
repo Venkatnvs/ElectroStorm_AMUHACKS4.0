@@ -22,14 +22,21 @@ PulsePlan is an all-in-one solution designed to streamline corporate tournament 
 
 [![PulsePlan Demo Video](https://img.youtube.com/vi/wBML23nkEbM/0.jpg)](https://youtu.be/wBML23nkEbM)
 
-![Screenshot 2025-04-14 042040](https://github.com/user-attachments/assets/f0e29ff8-0b9c-411f-ab2d-5baebbf64263)
-![Screenshot 2025-04-14 042024](https://github.com/user-attachments/assets/51e81ca4-59d5-4042-8ef4-88a5ac92d84c)
-![Screenshot 2025-04-14 041952](https://github.com/user-attachments/assets/1fd1386a-02b9-44ec-9ecd-894a45c7c7b6)
-![Screenshot 2025-04-14 041907](https://github.com/user-attachments/assets/8504f288-c72f-4426-a55e-334d72e814d4)
-![Screenshot 2025-04-14 041826](https://github.com/user-attachments/assets/a41536dc-7bab-495f-be09-4899b42d1f23)
-![Screenshot 2025-04-14 041808](https://github.com/user-attachments/assets/7018a08f-a29d-442b-a9c9-451165850472)
-![Screenshot 2025-04-14 041738](https://github.com/user-attachments/assets/0b92986b-eea2-4548-a919-64061f24123c)
-![Screenshot 2025-04-14 041215](https://github.com/user-attachments/assets/1a375346-f491-4320-9eb0-538f73975e90)
+![Screenshot](https://github.com/user-attachments/assets/1a375346-f491-4320-9eb0-538f73975e90)
+
+![Screenshot](https://github.com/user-attachments/assets/f0e29ff8-0b9c-411f-ab2d-5baebbf64263)
+
+![Screenshot](https://github.com/user-attachments/assets/51e81ca4-59d5-4042-8ef4-88a5ac92d84c)
+
+![Screenshot](https://github.com/user-attachments/assets/1fd1386a-02b9-44ec-9ecd-894a45c7c7b6)
+
+![Screenshot](https://github.com/user-attachments/assets/8504f288-c72f-4426-a55e-334d72e814d4)
+
+![Screenshot](https://github.com/user-attachments/assets/a41536dc-7bab-495f-be09-4899b42d1f23)
+
+![Screenshot](https://github.com/user-attachments/assets/7018a08f-a29d-442b-a9c9-451165850472)
+
+![Screenshot](https://github.com/user-attachments/assets/0b92986b-eea2-4548-a919-64061f24123c)
 
 
 ## 🔍 Problem Statement
@@ -197,4 +204,4 @@ For inquiries, support, or collaboration opportunities:
 
 ---
 
-Built with ❤️ by the PulsePlan Team | © 2023 PulsePlan
+Built with ❤️ by the PulsePlan Team | © 2025 PulsePlan
