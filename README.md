@@ -20,7 +20,6 @@ Click the image to watch the video!
 ### Frontend:
 - **React** (with Vite) – A fast and lightweight framework for building UI.
 - **Tailwind CSS** – A utility-first CSS framework for responsive and modern styling.
-- **Zod** – A TypeScript-first schema declaration and validation library.
 - **Axios** – A promise-based HTTP client for making API requests.
 
 ### Backend:
