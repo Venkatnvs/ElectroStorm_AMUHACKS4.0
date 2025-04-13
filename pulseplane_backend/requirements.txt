@@ -1,0 +1,10 @@
+Django
+django-decouple
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+drf-yasg
+dj-database-url
+whitenoise
+psycopg2-binary
+gunicorn
