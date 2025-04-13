@@ -30,12 +30,6 @@ export const navItems = [
     label: 'Feedback',
   },
   {
-    title: 'Recognitions',
-    href: '/dashboard/recognitions',
-    icon: 'award',
-    label: 'Recognitions',
-  },
-  {
     title: 'Hiring',
     href: '/dashboard/new-hire',
     icon: 'hire',

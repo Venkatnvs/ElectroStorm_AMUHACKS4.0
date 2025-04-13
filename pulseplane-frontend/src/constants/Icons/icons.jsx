@@ -1,7 +1,6 @@
 import {
   AlertTriangle,
   ArrowRight,
-  Award,
   BookUser,
   Cable,
   ChartColumn,
@@ -67,7 +66,6 @@ export const Icons = {
   moon: Moon,
   hire: Cable,
   laptop: Laptop,
-  award: Award,
   gitHub: ({ ...props }) => (
     <svg
       aria-hidden='true'

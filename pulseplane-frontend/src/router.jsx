@@ -8,8 +8,6 @@ import MainNewHiring from "./pages/NewHiring/MainNewHiring";
 import MainProfilePage from "./pages/Profile/MainProfilePage";
 import MainShiftScheduling from "./pages/ShiftScheduling/MainShiftScheduling";
 import ShiftDetails from "./pages/ShiftScheduling/ShiftDetails";
-import RecognitionsPage from "./pages/Recognitions";
-import CreateRecognitionPage from "./pages/Recognitions/CreateRecognition";
 
 
 const routes = [
@@ -62,16 +60,6 @@ const routes = [
         name: 'profile',
         path: '/dashboard/profile',
         element: MainProfilePage,
-    },
-    {
-        name: 'recognitions',
-        path: '/dashboard/recognitions',
-        element: RecognitionsPage,
-    },
-    {
-        name: 'create-recognition',
-        path: '/dashboard/recognitions/create',
-        element: CreateRecognitionPage,
     }
 ];
 

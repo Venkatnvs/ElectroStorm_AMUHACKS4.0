@@ -12,12 +12,6 @@ export const navItems2 = [
     label: 'calendar',
   },
   {
-    title: 'Recognitions',
-    href: '/dashboard/recognitions',
-    icon: 'award',
-    label: 'Recognitions',
-  },
-  {
     title: 'Profile',
     href: '/dashboard/profile',
     icon: 'profile',

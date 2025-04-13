@@ -1,6 +1,5 @@
 from django.contrib import admin
-from .models import LeaveManagement, Feedback, PeerRecognition
+from .models import LeaveManagement, Feedback
 
 admin.site.register(LeaveManagement)
 admin.site.register(Feedback)
-admin.site.register(PeerRecognition)

@@ -1,5 +1,4 @@
-from django.urls import path, include
-from rest_framework.routers import DefaultRouter
+from django.urls import path
 from .views import (
     LeaveManagementView,
     LeaveManagementDetailView,
@@ -7,13 +6,8 @@ from .views import (
     LeaveManagementDetailView,
     FeedbackListCreateView,
     FeedbackDetailView,
-    FeedbackListCreateView2,
-    PeerRecognitionViewSet
+    FeedbackListCreateView2
 )
-
-# Create a router for viewsets
-router = DefaultRouter()
-router.register(r'recognitions', PeerRecognitionViewSet)
 
 urlpatterns = [
     path('leaves/', LeaveManagementView.as_view(), name='leave-list-create'),
@@ -26,7 +20,4 @@ urlpatterns = [
     path('feedback/<int:pk>/', FeedbackDetailView.as_view(), name='feedback-detail'),
 
     path('feedback2/', FeedbackListCreateView2.as_view(), name='feedback-list-create2'),
-    
-    # Include the router URLs
-    path('', include(router.urls)),
 ]

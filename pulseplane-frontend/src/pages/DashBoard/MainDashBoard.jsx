@@ -16,7 +16,6 @@ import {
   UserRoundCheck,
   UserRoundX,
   Users,
-  Award,
 } from 'lucide-react';
 import CalendarDateRangePicker from '@/components/date-range-picker';
 import moment from 'moment';
@@ -24,7 +23,6 @@ import { useSelector } from 'react-redux';
 import { core_dashboard_data_count_list, core_dashboard_data_count_list2, core_dashboard_graph_data_list } from '@/apis/dashboard';
 import PieChartForPosition from './components/PieChartForPosition';
 import PieChartForGender from './components/PieChartForGender';
-import RecognitionStats from './components/RecognitionStats';
 
 const MainDashBoardContainer = ({
   countData,
@@ -257,9 +255,6 @@ const MainDashBoard = () => {
                   <PieChartForGender chartData={chartData?.chart2} />
                 )}
               </div>
-              <div className='col-span-4 md:col-span-1'>
-                <RecognitionStats />
-              </div>
             </div>
             </div>
           </>
@@ -268,15 +263,12 @@ const MainDashBoard = () => {
             <MainDashBoardContainer2
               countData={countData2}
               setCountData={setCountData2}
+              // fetchCountData={fetchCountData}
             />
-            <div className='grid grid-cols-1 md:gap-4 md:grid-cols-2 lg:grid-cols-3 mt-5'>
-              <div className='col-span-1'>
-                <RecognitionStats />
-              </div>
-            </div>
           </>
         )
       }
+      
     </PageContainer>
   );
 };
